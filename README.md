@@ -1,18 +1,16 @@
-# 👥 Customer Churn Prediction
 
-📊 **Customer Churn Prediction** is a Machine Learning project designed to predict whether a customer is likely to **churn (leave the company) or stay**.
+👥 Customer Churn Prediction
 
-🤖 The project uses **Logistic Regression** to analyze customer data and identify customers who are at **higher risk of churn**.
+📊 A Machine Learning project that predicts whether a customer is likely to churn or stay using customer-related data.
 
-🎯 **Objective:** Help businesses identify potential churn customers early and take **proactive actions** to improve customer retention, reduce customer loss, and increase overall satisfaction.
+🎯 Objective: Identify customers who are at higher risk of leaving and help businesses improve customer retention and satisfaction.
 
-✨ **Key Features:**
+✨ Key Features:
 
-* 🤖 Machine Learning-based churn prediction
-* 📊 Customer data analysis and preprocessing
-* 🎯 Churn prediction using Logistic Regression
-* 📈 Model evaluation and performance analysis
-* 💡 Identification of high-risk customers
-* 🌐 Interactive prediction system
+- 🤖 Logistic Regression-based prediction
+- 📊 Data preprocessing and analysis
+- 📈 Model evaluation
+- 💡 High-risk customer identification
+- 🌐 Interactive Streamlit application
 
-🛠️ **Built With:** Python • Pandas • NumPy • Scikit-learn • Streamlit
+🛠️ Built With: 🐍 Python • 🐼 Pandas • 🔢 NumPy • 🤖 Scikit-learn • 🌐 Streamlit
