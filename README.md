@@ -12,9 +12,9 @@ Identify customers who are at higher risk of leaving and help businesses make da
 - 📊 Data Analysis & Preprocessing
 - 📈 Model Performance Evaluation
 - 💡 Customer Churn Risk Identification
-- 🎯 Churn Prediction
-- 🌐 Interactive Streamlit Web Application
+- 🎯 Customer Churn Prediction
 - ⚡ Real-Time Predictions
+- 🌐 Interactive Streamlit Web Application
 
 🛠️ Tech Stack
 
