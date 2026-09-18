@@ -1,4 +1,4 @@
-👥 Customer Churn Prediction
+📉 Customer Churn Prediction
 
 A Machine Learning application that predicts whether a customer is likely to Churn or Stay based on customer-related data.
 
